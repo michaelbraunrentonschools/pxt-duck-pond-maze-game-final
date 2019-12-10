@@ -1,5 +1,5 @@
 {
-    "name": "Duck Pond",
+    "name": "maze-final",
     "dependencies": {
         "device": "*",
         "animation": "*",
